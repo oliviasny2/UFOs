@@ -1,0 +1,2 @@
+index.html filter=lfs diff=lfs merge=lfs -text
+static/js/appMod.js filter=lfs diff=lfs merge=lfs -text
